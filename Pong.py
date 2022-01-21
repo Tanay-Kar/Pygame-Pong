@@ -81,13 +81,13 @@ About_MSG3_rect = About_MSG3.get_rect(center=((width // 2), ((height // 2))))
 About_MSG4 = abt_font.render("Developed by Tanay Kar", True, (255, 255, 255))
 About_MSG4_rect = About_MSG4.get_rect(
     center=((width // 2), ((height // 2) + 38)))
-About_MSG5 = abt_font.render("Press 'P' to resume game", True, (255, 255, 255))
+About_MSG5 = abt_font.render("Press 'A' to resume game", True, (255, 255, 255))
 About_MSG5_rect = About_MSG5.get_rect(
     center=((width // 2), ((height // 2) + 86)))
 # -------
 Help_MSG1 = abt2_font.render("Help",True,(255,255,255))
 Help_MSG1_rect = Help_MSG1.get_rect(center = ((width // 2), ((height // 2) - 86)))
-Help_MSG2 = abt_font.render("Press 'P' to pause or resume game", True, (255, 255, 255))
+Help_MSG2 = abt_font.render("Press 'SPACE' to pause or resume game", True, (255, 255, 255))
 Help_MSG2_rect = Help_MSG2.get_rect(
     center=((width // 2), ((height // 2) - 38)))
 Help_MSG3 = abt_font.render("Press 'A' to show about page", True, (255, 255, 255))
