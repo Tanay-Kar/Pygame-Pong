@@ -15,7 +15,7 @@ Screenshot feature of game
 
 <hr>
 <h2>How to play ?</h2>
-After cloning/downloading repository , run the file 'main.py'
+After cloning/downloading repository , run the file 'Pong.py'
 
 There are certain keyboard shourtcuts for accessing the different features of the game.
 <br>
