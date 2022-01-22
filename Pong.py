@@ -157,7 +157,7 @@ def save():
 
     pygame.time.delay(300)
     print(count_files("Screenshots/"))
-    file_name = "/Screenshots/Pong_screenshot" + "/"
+    file_name = "Screenshots/Pong_screenshot" + \
         str(count_files("Screenshots/") + 1) + ".png"
     pygame.image.save(screen, file_name)
     clock.tick(30)
