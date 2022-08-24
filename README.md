@@ -15,10 +15,12 @@ Screenshot feature of game
 
 <hr>
 <h2>How to play ?</h2>
-## Install the package pygame
-```
+Install the package pygame
+<br>
+<hr>
 pip install pygame
-```
+<hr>
+<br>
 <br>
 After cloning/downloading repository , run the file 'Pong.py'
 
