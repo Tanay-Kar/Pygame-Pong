@@ -15,6 +15,11 @@ Screenshot feature of game
 
 <hr>
 <h2>How to play ?</h2>
+## Install the package pygame
+```
+pip install pygame
+```
+<br>
 After cloning/downloading repository , run the file 'Pong.py'
 
 There are certain keyboard shourtcuts for accessing the different features of the game.
