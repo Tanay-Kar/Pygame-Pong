@@ -17,13 +17,21 @@ Screenshot feature of game
 <h2>How to play ?</h2>
 Install the package pygame
 <br>
-<hr>
+<br>
+
+```bash
 pip install pygame
-<hr>
+```
 <br>
 <br>
 After cloning/downloading repository , run the file 'Pong.py'
+<br>
 
+
+```bash
+python3 Pong.py
+```
+<br>
 There are certain keyboard shourtcuts for accessing the different features of the game.
 <br>
 <li> In the start screen , Press <b>SPACE</b> to play the game.
