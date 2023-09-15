@@ -27,6 +27,7 @@ Clone the repository(git required)
 
 ```bash
 git clone https://github.com/Tanay-Kar/Pygame-Pong
+cd Pygame-Pong
 ```
 OR , download the repository from the top-right code button
 
