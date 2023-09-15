@@ -23,6 +23,12 @@ Install the package pygame
 pip install pygame
 ```
 <br>
+Clone the repository(git required)
+```bash
+git clone https://github.com/Tanay-Kar/Pygame-Pong
+```
+OR , download the repository from the top-right code button
+
 <br>
 After cloning/downloading repository , run the file 'Pong.py'
 <br>
