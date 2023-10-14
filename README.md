@@ -1,17 +1,7 @@
 # Pygame-Pong
 A simple Pong game designed in Python using pygame
 
-![Screenshot (2)](_docs_/hmscr.png)
-Start screen
-<br>
 
-![Screenshot (3)](_docs_/gmply.png)
-Game play
-<br>
-
-![Pong_screenshot2](_docs_/hlpscr.png)<br>
-Help screen
-<br>
 
 <hr>
 <h2>How to play ?</h2>
