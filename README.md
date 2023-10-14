@@ -33,7 +33,7 @@ python3 Pong.py
 There are certain keyboard shourtcuts for accessing the different features of the game.
 <br>
 <li> In the start screen , Press <kbd>SPACE</kbd> to play the game.
-<li> Once in the game , you can move your paddle (Blue) using the arrow keys : <kbd>Up</kbd> and <kbd>Down</kbd> keys.
+<li> Once in the game , you can move your paddle (Yelow) using the arrow keys : <kbd>Up</kbd> and <kbd>Down</kbd> keys.
 <li> Press <kbd>SPACE</kbd> to pause the game.
 <li> Press <kbd>S</kbd> key to take a screenshot of the game window.
 <li> Press <kbd>R</kbd> key to restart the game.
